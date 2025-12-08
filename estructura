@@ -1,0 +1,35 @@
+/api
+   /config
+      database.php
+      cors.php
+
+   /helpers
+      response.php
+      auth.php
+      utils.php
+
+   /chat
+      start_chat.php
+      assign_department.php
+      accept_chat.php
+      close_chat.php
+      get_chat.php
+
+   /messages
+      send_message.php
+      get_messages.php
+
+   /chatbot
+      get_question.php
+      save_answer.php
+
+   /asesores
+      get_available.php
+      notify_asesores.php
+      accept_request.php
+
+   /sessions
+      create_client.php
+      validate_client.php
+
+   index.php
