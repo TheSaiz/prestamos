@@ -1,0 +1,53 @@
+[2025-12-11 21:22:11] RAW INPUT: {"dni":"41727387"}
+[2025-12-11 21:22:11] Instanciando SOAP Client… WSDL=http://padronbcra.dyndns.info:9999/aconsultapaws.aspx?wsdl
+[2025-12-11 21:22:11] Probando prefijo 20 → CUIT Generado: 20417273876
+[2025-12-11 21:22:11] SOAP Request XML (prefijo 20): <GX xmlns="GX">
+            <Usuario>P.LIDER</Usuario>
+            <Clave>P.LIDER</Clave>
+            <Version>1</Version>
+            <Pa_Tipo>CUIT</Pa_Tipo>
+            <CUIT>20417273876</CUIT>
+        </GX>
+[2025-12-11 21:22:11] SOAP Response (CUIT 20417273876): {"Bcra_rpa":{"Casos":0,"Msg":"Error, la versi\u00f3n () no existe, par\u00e1metros recibido (<GX xmlns=\"GX\">\n            <Usuario>P.LIDER<\/Usuario>\n            <Clave>P.LIDER<\/Clave>\n            <Version>1<\/Version>\n            <Pa_Tipo>CUIT<\/Pa_Tipo>\n            <CUIT>20417273876<\/CUIT>\n        <\/GX>)","Datos":{}}}
+[2025-12-11 21:22:11] ✖ Sin casos para CUIT 20417273876
+[2025-12-11 21:22:11] Probando prefijo 23 → CUIT Generado: 23417273875
+[2025-12-11 21:22:11] SOAP Request XML (prefijo 23): <GX xmlns="GX">
+            <Usuario>P.LIDER</Usuario>
+            <Clave>P.LIDER</Clave>
+            <Version>1</Version>
+            <Pa_Tipo>CUIT</Pa_Tipo>
+            <CUIT>23417273875</CUIT>
+        </GX>
+[2025-12-11 21:22:11] SOAP Response (CUIT 23417273875): {"Bcra_rpa":{"Casos":0,"Msg":"Error, la versi\u00f3n () no existe, par\u00e1metros recibido (<GX xmlns=\"GX\">\n            <Usuario>P.LIDER<\/Usuario>\n            <Clave>P.LIDER<\/Clave>\n            <Version>1<\/Version>\n            <Pa_Tipo>CUIT<\/Pa_Tipo>\n            <CUIT>23417273875<\/CUIT>\n        <\/GX>)","Datos":{}}}
+[2025-12-11 21:22:11] ✖ Sin casos para CUIT 23417273875
+[2025-12-11 21:22:11] Probando prefijo 24 → CUIT Generado: 24417273871
+[2025-12-11 21:22:11] SOAP Request XML (prefijo 24): <GX xmlns="GX">
+            <Usuario>P.LIDER</Usuario>
+            <Clave>P.LIDER</Clave>
+            <Version>1</Version>
+            <Pa_Tipo>CUIT</Pa_Tipo>
+            <CUIT>24417273871</CUIT>
+        </GX>
+[2025-12-11 21:22:11] SOAP Response (CUIT 24417273871): {"Bcra_rpa":{"Casos":0,"Msg":"Error, la versi\u00f3n () no existe, par\u00e1metros recibido (<GX xmlns=\"GX\">\n            <Usuario>P.LIDER<\/Usuario>\n            <Clave>P.LIDER<\/Clave>\n            <Version>1<\/Version>\n            <Pa_Tipo>CUIT<\/Pa_Tipo>\n            <CUIT>24417273871<\/CUIT>\n        <\/GX>)","Datos":{}}}
+[2025-12-11 21:22:11] ✖ Sin casos para CUIT 24417273871
+[2025-12-11 21:22:11] Probando prefijo 27 → CUIT Generado: 27417273870
+[2025-12-11 21:22:11] SOAP Request XML (prefijo 27): <GX xmlns="GX">
+            <Usuario>P.LIDER</Usuario>
+            <Clave>P.LIDER</Clave>
+            <Version>1</Version>
+            <Pa_Tipo>CUIT</Pa_Tipo>
+            <CUIT>27417273870</CUIT>
+        </GX>
+[2025-12-11 21:22:11] SOAP Response (CUIT 27417273870): {"Bcra_rpa":{"Casos":0,"Msg":"Error, la versi\u00f3n () no existe, par\u00e1metros recibido (<GX xmlns=\"GX\">\n            <Usuario>P.LIDER<\/Usuario>\n            <Clave>P.LIDER<\/Clave>\n            <Version>1<\/Version>\n            <Pa_Tipo>CUIT<\/Pa_Tipo>\n            <CUIT>27417273870<\/CUIT>\n        <\/GX>)","Datos":{}}}
+[2025-12-11 21:22:11] ✖ Sin casos para CUIT 27417273870
+[2025-12-11 21:22:11] Probando prefijo 30 → CUIT Generado: 30417273871
+[2025-12-11 21:22:11] SOAP Request XML (prefijo 30): <GX xmlns="GX">
+            <Usuario>P.LIDER</Usuario>
+            <Clave>P.LIDER</Clave>
+            <Version>1</Version>
+            <Pa_Tipo>CUIT</Pa_Tipo>
+            <CUIT>30417273871</CUIT>
+        </GX>
+[2025-12-11 21:22:11] SOAP Response (CUIT 30417273871): {"Bcra_rpa":{"Casos":0,"Msg":"Error, la versi\u00f3n () no existe, par\u00e1metros recibido (<GX xmlns=\"GX\">\n            <Usuario>P.LIDER<\/Usuario>\n            <Clave>P.LIDER<\/Clave>\n            <Version>1<\/Version>\n            <Pa_Tipo>CUIT<\/Pa_Tipo>\n            <CUIT>30417273871<\/CUIT>\n        <\/GX>)","Datos":{}}}
+[2025-12-11 21:22:11] ✖ Sin casos para CUIT 30417273871
+[2025-12-11 21:22:11] ❌ No se encontró información con ningún prefijo para DNI 41727387
