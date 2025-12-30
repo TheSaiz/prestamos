@@ -1,0 +1,72 @@
+[2025-12-26 21:35:02] ========== NUEVA PETICIÓN ==========
+[2025-12-26 21:35:02] ✓ Usuario autenticado: ID=2, Rol=asesor
+[2025-12-26 21:35:02] Input recibido: {"chat_id":null,"cliente_id":815,"estado":"aprobado"}
+[2025-12-26 21:35:02] Datos parseados - Estado: aprobado, Cliente ID: 815, Chat ID: 0
+[2025-12-26 21:35:02] ✓ Cliente ID final: 815
+[2025-12-26 21:35:02] Actualizando estado a 'aprobado' para cliente_id=815
+[2025-12-26 21:35:02] Filas afectadas: 1
+[2025-12-26 21:35:02] ✓ Estado actualizado correctamente en BD
+[2025-12-26 21:35:02] Iniciando proceso de envío de email...
+[2025-12-26 21:35:02] Verificando EmailDispatcher en: /home/u958859890/domains/prestamolider.com/public_html/system/api/../correos/EmailDispatcher.php
+[2025-12-26 21:35:02] ✓ EmailDispatcher encontrado, cargando...
+[2025-12-26 21:35:02] Obteniendo datos del cliente...
+[2025-12-26 21:35:02] ✓ Datos del cliente obtenidos: CANO ESPINDOLA ALVARO THOMAS <Thomec86@gmail.com>
+[2025-12-26 21:35:02] Creando instancia de EmailDispatcher...
+[2025-12-26 21:35:02] ✓ EmailDispatcher instanciado
+[2025-12-26 21:35:02] Enviando email de documentos aprobados...
+[2025-12-26 21:35:03] ✓ ✓ ✓ EMAIL ENVIADO EXITOSAMENTE ✓ ✓ ✓
+[2025-12-26 21:35:03] ========== RESPUESTA EXITOSA ==========
+[2025-12-26 21:40:27] ========== NUEVA PETICIÓN ==========
+[2025-12-26 21:40:27] ✓ Usuario autenticado: ID=15, Rol=admin
+[2025-12-26 21:40:27] Input recibido: {"chat_id":null,"cliente_id":815,"estado":"aprobado"}
+[2025-12-26 21:40:27] Datos parseados - Estado: aprobado, Cliente ID: 815, Chat ID: 0
+[2025-12-26 21:40:27] ✓ Cliente ID final: 815
+[2025-12-26 21:40:27] Actualizando estado a 'aprobado' para cliente_id=815
+[2025-12-26 21:40:27] Filas afectadas: 1
+[2025-12-26 21:40:27] ✓ Estado actualizado correctamente en BD
+[2025-12-26 21:40:27] Iniciando proceso de envío de email...
+[2025-12-26 21:40:27] Verificando EmailDispatcher en: /home/u958859890/domains/prestamolider.com/public_html/system/api/../correos/EmailDispatcher.php
+[2025-12-26 21:40:27] ✓ EmailDispatcher encontrado, cargando...
+[2025-12-26 21:40:27] Obteniendo datos del cliente...
+[2025-12-26 21:40:27] ✓ Datos del cliente obtenidos: CANO ESPINDOLA ALVARO THOMAS <Thomec86@gmail.com>
+[2025-12-26 21:40:27] Creando instancia de EmailDispatcher...
+[2025-12-26 21:40:27] ✓ EmailDispatcher instanciado
+[2025-12-26 21:40:27] Enviando email de documentos aprobados...
+[2025-12-26 21:40:29] ✓ ✓ ✓ EMAIL ENVIADO EXITOSAMENTE ✓ ✓ ✓
+[2025-12-26 21:40:29] ========== RESPUESTA EXITOSA ==========
+[2025-12-26 21:45:12] ========== NUEVA PETICIÓN ==========
+[2025-12-26 21:45:12] ✓ Usuario autenticado: ID=15, Rol=admin
+[2025-12-26 21:45:12] Input recibido: {"chat_id":null,"cliente_id":815,"estado":"rechazado"}
+[2025-12-26 21:45:12] Datos parseados - Estado: rechazado, Cliente ID: 815, Chat ID: 0
+[2025-12-26 21:45:12] ✓ Cliente ID final: 815
+[2025-12-26 21:45:12] Actualizando estado a 'rechazado' para cliente_id=815
+[2025-12-26 21:45:12] Filas afectadas: 1
+[2025-12-26 21:45:12] ✓ Estado actualizado correctamente en BD
+[2025-12-26 21:45:12] Iniciando proceso de envío de email...
+[2025-12-26 21:45:12] Verificando EmailDispatcher en: /home/u958859890/domains/prestamolider.com/public_html/system/api/../correos/EmailDispatcher.php
+[2025-12-26 21:45:12] ✓ EmailDispatcher encontrado, cargando...
+[2025-12-26 21:45:12] Obteniendo datos del cliente...
+[2025-12-26 21:45:12] ✓ Datos del cliente obtenidos: CANO ESPINDOLA ALVARO THOMAS <Thomec86@gmail.com>
+[2025-12-26 21:45:12] Creando instancia de EmailDispatcher...
+[2025-12-26 21:45:12] ✓ EmailDispatcher instanciado
+[2025-12-26 21:45:12] Enviando email de documentos rechazados...
+[2025-12-26 21:45:13] ✓ ✓ ✓ EMAIL ENVIADO EXITOSAMENTE ✓ ✓ ✓
+[2025-12-26 21:45:13] ========== RESPUESTA EXITOSA ==========
+[2025-12-27 17:59:06] ========== NUEVA PETICIÓN ==========
+[2025-12-27 17:59:06] ✓ Usuario autenticado: ID=15, Rol=admin
+[2025-12-27 17:59:06] Input recibido: {"chat_id":null,"cliente_id":815,"estado":"aprobado"}
+[2025-12-27 17:59:06] Datos parseados - Estado: aprobado, Cliente ID: 815, Chat ID: 0
+[2025-12-27 17:59:06] ✓ Cliente ID final: 815
+[2025-12-27 17:59:06] Actualizando estado a 'aprobado' para cliente_id=815
+[2025-12-27 17:59:06] Filas afectadas: 1
+[2025-12-27 17:59:06] ✓ Estado actualizado correctamente en BD
+[2025-12-27 17:59:06] Iniciando proceso de envío de email...
+[2025-12-27 17:59:06] Verificando EmailDispatcher en: /home/u958859890/domains/prestamolider.com/public_html/system/api/../correos/EmailDispatcher.php
+[2025-12-27 17:59:06] ✓ EmailDispatcher encontrado, cargando...
+[2025-12-27 17:59:06] Obteniendo datos del cliente...
+[2025-12-27 17:59:06] ✓ Datos del cliente obtenidos: CANO ESPINDOLA ALVARO THOMAS <Thomec86@gmail.com>
+[2025-12-27 17:59:06] Creando instancia de EmailDispatcher...
+[2025-12-27 17:59:06] ✓ EmailDispatcher instanciado
+[2025-12-27 17:59:06] Enviando email de documentos aprobados...
+[2025-12-27 17:59:09] ✓ ✓ ✓ EMAIL ENVIADO EXITOSAMENTE ✓ ✓ ✓
+[2025-12-27 17:59:09] ========== RESPUESTA EXITOSA ==========
